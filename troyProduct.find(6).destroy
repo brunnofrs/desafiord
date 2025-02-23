@@ -1,0 +1,31 @@
+=> 
+[[32m#<Product:0x00007f016669e9c0[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mSamsung Galaxy S24 Ultra[0m[31m[1m"[0m,
+  price: [35m[1m0.1299999e5[0m,
+  created_at: Sat, 22 Feb 2025 21:22:58.076291000 UTC +00:00,
+  updated_at: Sat, 22 Feb 2025 21:22:58.076291000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f016669e880[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31miPhone 15 Pro Max[0m[31m[1m"[0m,
+  price: [35m[1m0.1499999e5[0m,
+  created_at: Sat, 22 Feb 2025 21:22:58.090375000 UTC +00:00,
+  updated_at: Sat, 22 Feb 2025 21:22:58.090375000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f016669e740[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mXiaomi Mi 27 Pro Plus Master Ultra[0m[31m[1m"[0m,
+  price: [35m[1m0.99999e3[0m,
+  created_at: Sat, 22 Feb 2025 21:22:58.104836000 UTC +00:00,
+  updated_at: Sat, 22 Feb 2025 21:22:58.104836000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f016669e600[0m
+  id: [34m[1m6[0m,
+  name: [31m[1m"[0m[31miXiamo Mi 27 Pro Plus Master Ultra[0m[31m[1m"[0m,
+  price: [35m[1m0.99999e3[0m,
+  created_at: Sun, 23 Feb 2025 04:22:13.658236000 UTC +00:00,
+  updated_at: Sun, 23 Feb 2025 04:22:13.658236000 UTC +00:00[32m>[0m,
+ [32m#<Product:0x00007f016669e4c0[0m
+  id: [34m[1m7[0m,
+  name: [31m[1m"[0m[31mSamsung Galaxy S24 Ultra[0m[31m[1m"[0m,
+  price: [35m[1m0.1299999e5[0m,
+  created_at: Sun, 23 Feb 2025 04:23:47.687163000 UTC +00:00,
+  updated_at: Sun, 23 Feb 2025 04:23:47.687163000 UTC +00:00[32m>[0m]

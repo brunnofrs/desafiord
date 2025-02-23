@@ -1,0 +1,16 @@
+:concurrency: 3
+:timeout: 60
+:verbose: true
+:logfile: ./log/development.lo
+:queues:
+  - critical
+  - default
+  - mailers
+  - active_storage_analysis
+  - active_storage_purge
+
+:scheduler:  
+  :schedule:
+    manage_abandoned_carts:
+      cron: '0 * * * *' 
+      class: 'ManageAbandonedCartsJob'
